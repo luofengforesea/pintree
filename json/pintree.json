@@ -70,9 +70,37 @@
       {
         "type": "link",
         "addDate": 1718526687700,
-        "title": "Google",
-        "icon": "https://logo.clearbit.com/www.google.com",
-        "url": "https://www.google.com/"
+        "title": "WMS-基础管理平台-PC端测试环境",
+        "icon": "http://192.168.17.83:50080/favicon.svg",
+        "url": "http://192.168.135.30:180/#/login?redirect=/locator/warehouse"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "WMS-仓储管理平台-PC端测试环境",
+        "icon": "http://192.168.17.83:50080/favicon.svg",
+        "url": "http://192.168.135.30:180/wms/#/login?redirect=/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "WMS-仓储管理平台-PDA测试环境",
+        "icon": "http://192.168.17.83:50080/favicon.svg",
+        "url": "http://192.168.135.30:182/#/home"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "PMS-PC端测试环境",
+        "icon": "https://pms.aimsphm.com:58888/favicon.ico",
+        "url": "http://192.168.135.30:180/wms/#/login?redirect=/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "PMS-移动端测试环境",
+        "icon": "https://pms.aimsphm.com:58888/favicon.ico",
+        "url": "https://192.168.16.36:58888/reLogin"
       }
     ]
   }
