@@ -122,6 +122,20 @@
         "title": "gitlab",
         "icon": "http://192.168.16.27/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png",
         "url": "http://192.168.16.27"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "jumpServer",
+        "icon": "https://192.168.16.90:8443/static/img/logo_text.png",
+        "url": "https://192.168.16.90:8443/ui/#/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "wms测试环境swagger",
+        "icon": "",
+        "url": "http://192.168.135.58:9900/doc.html#/home"
       }
     ]
   }
