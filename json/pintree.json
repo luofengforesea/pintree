@@ -2,7 +2,70 @@
   {
     "type": "folder",
     "addDate": 1718526477999,
-    "title": "Bookmarks Bar",
+    "title": "生产环境",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "WMS-基础管理平台-宁德",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "http://wms.aimsphm.com:50080/#/login?redirect=/locator/warehouse"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "WMS-仓储管理平台-宁德-PC端",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "http://wms.aimsphm.com:50080/wms/#/login"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "WMS-仓储管理平台-宁德-PDA",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "http://wms.aimsphm.com:50081/login#/login?redirect=/home"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "WMS-基础管理平台-杭州",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "http://192.168.17.83:50080/#/login?redirect=/locator/warehouse"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "WMS-仓储管理平台-杭州-PC端",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "http://192.168.17.83:50080/wms/#/login"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "WMS-仓储管理平台-杭州-PDA",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "http://192.168.17.83:50081/login#/login?redirect=/home"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "PMS-PC端",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "https://pms.aimsphm.com:58888/login"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "PMS-移动端",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "https://pms.aimsphm.com:58888/logindc68a4?corpId=dingc368028e980b68a4"
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1718526478999,
+    "title": "测试环境",
     "children": [
       {
         "type": "link",
