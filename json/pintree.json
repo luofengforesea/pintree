@@ -103,5 +103,26 @@
         "url": "https://192.168.16.36:58888/reLogin"
       }
     ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1718526478999,
+    "title": "开发工具",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "nacos开发环境",
+        "icon": "http://192.168.16.39:8848/nacos/img/logo-2000-390.svg",
+        "url": "http://192.168.16.39:8848/nacos"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "gitlab",
+        "icon": "http://192.168.16.27/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png",
+        "url": "http://192.168.16.27"
+      }
+    ]
   }
 ]
