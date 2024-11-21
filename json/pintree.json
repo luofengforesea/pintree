@@ -59,6 +59,13 @@
         "title": "PMS-移动端",
         "icon": "https://pms.aimsphm.com:58888/favicon.ico",
         "url": "https://pms.aimsphm.com:58888/logindc68a4?corpId=dingc368028e980b68a4"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "AIMS邮件系统",
+        "icon": "https://mail.aimsphm.com/coremail/s?func=lp:getImg&org_id=&img_id=favor_001",
+        "url": "https://mail.aimsphm.com/"
       }
     ]
   },
@@ -133,9 +140,16 @@
       {
         "type": "link",
         "addDate": 1718526687700,
-        "title": "wms测试环境swagger",
+        "title": "WMS测试环境swagger",
         "icon": "",
         "url": "http://192.168.135.58:9900/doc.html#/home"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "PMS测试环境swagger",
+        "icon": "",
+        "url": "http://192.168.16.37:8805/aims-oa/swagger-ui.html#/"
       }
     ]
   }
