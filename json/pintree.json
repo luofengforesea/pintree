@@ -150,6 +150,20 @@
         "title": "PMS测试环境swagger",
         "icon": "",
         "url": "http://192.168.16.37:8805/aims-oa/swagger-ui.html#/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "Ant Desine Vue 3.0",
+        "icon": "",
+        "url": "https://3x.antdv.com/components/form-cn"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "Ant Desine 4.0",
+        "icon": "",
+        "url": "https://4x-ant-design.antgroup.com/components/form-cn/"
       }
     ]
   }
