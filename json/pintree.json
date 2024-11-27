@@ -29,22 +29,22 @@
         "type": "link",
         "addDate": 1718526687700,
         "title": "WMS-基础管理平台-杭州",
-        "icon": "http://192.168.17.83:50080/favicon.svg",
-        "url": "http://192.168.17.83:50080/#/login?redirect=/locator/warehouse"
+        "icon": "http://115.236.92.180:51080/favicon.svg",
+        "url": "http://115.236.92.180:51080/#/login?redirect=/locator/warehouse"
       },
       {
         "type": "link",
         "addDate": 1718526687700,
         "title": "WMS-仓储管理平台-杭州-PC端",
-        "icon": "http://192.168.17.83:50080/favicon.svg",
-        "url": "http://192.168.17.83:50080/wms/#/login"
+        "icon": "http://115.236.92.180:51080/favicon.svg",
+        "url": "http://115.236.92.180:51080/wms"
       },
       {
         "type": "link",
         "addDate": 1718526687700,
         "title": "WMS-仓储管理平台-杭州-PDA",
-        "icon": "http://192.168.17.83:50080/favicon.svg",
-        "url": "http://192.168.17.83:50081/login#/login?redirect=/home"
+        "icon": "http://115.236.92.180:51080/favicon.svg",
+        "url": "http://115.236.92.180:51080/login#/login?redirect=/home"
       },
       {
         "type": "link",
