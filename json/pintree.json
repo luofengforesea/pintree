@@ -100,7 +100,7 @@
         "addDate": 1718526687700,
         "title": "PMS-PC端测试环境",
         "icon": "https://pms.aimsphm.com:58888/favicon.ico",
-        "url": "http://192.168.135.30:180/wms/#/login?redirect=/"
+        "url": "https://192.168.16.36:58888/login"
       },
       {
         "type": "link",
