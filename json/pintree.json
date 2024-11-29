@@ -66,6 +66,20 @@
         "title": "AIMS邮件系统",
         "icon": "https://mail.aimsphm.com/coremail/s?func=lp:getImg&org_id=&img_id=favor_001",
         "url": "https://mail.aimsphm.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "WMS-xxljob-宁德",
+        "icon": "",
+        "url": "http://192.168.17.81:8860/xxl-job-admin"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
+        "title": "WMS-xxljob-杭州",
+        "icon": "",
+        "url": "http://192.168.17.83:8860/xxl-job-admin"
       }
     ]
   },
