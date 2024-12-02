@@ -147,6 +147,13 @@
       {
         "type": "link",
         "addDate": 1718526687700,
+        "title": "xxl-job测试环境",
+        "icon": "",
+        "url": "http://192.168.16.33:8860/xxl-job-admin"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526687700,
         "title": "jumpServer",
         "icon": "https://192.168.16.90:8443/static/img/logo_text.png",
         "url": "https://192.168.16.90:8443/ui/#/"
