@@ -170,7 +170,7 @@
         "addDate": 1718526687700,
         "title": "PMS测试环境swagger",
         "icon": "",
-        "url": "http://192.168.16.37:8805/aims-oa/swagger-ui.html#/"
+        "url": "http://192.168.16.37:8805/aims-oa/doc.html"
       },
       {
         "type": "link",
